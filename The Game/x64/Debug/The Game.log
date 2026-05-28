@@ -1,0 +1,4 @@
+﻿  The Game.cpp
+C:\Users\HP\Documents\Learning c++\The Game\The Game\The Game.cpp(43,1): warning C4715: 'getPlayerChoiceName': not all control paths return a value
+C:\Users\HP\Documents\Learning c++\The Game\The Game\The Game.cpp(148,1): warning C4715: 'CheckWhoWin': not all control paths return a value
+  The Game.vcxproj -> C:\Users\HP\Documents\Learning c++\The Game\x64\Debug\The Game.exe
